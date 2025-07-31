@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: expire-calc
-    env: docker
-    plan: free
-    autoDeploy: true
-    dockerfilePath: Dockerfile
-    envVars: []
